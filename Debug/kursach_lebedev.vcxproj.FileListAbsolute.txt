@@ -1,0 +1,4 @@
+D:\lesha\kursach\kursach_lebedev\Debug\kursach_lebedev.exe
+D:\lesha\kursach\kursach_lebedev\Debug\kursach_lebedev.pdb
+C:\Users\Лёшик\source\repos\Курсач\Debug\kursach_lebedev.exe
+C:\Users\Лёшик\source\repos\Курсач\Debug\kursach_lebedev.pdb

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Лёшик\source\repos\Курсач\main.cpp(63,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Лёшик\source\repos\Курсач\namespace.h(199): warning C4715: mln::fulldata: значение возвращается не при всех путях выполнения
+  kursach_lebedev.vcxproj -> C:\Users\Лёшик\source\repos\Курсач\Debug\kursach_lebedev.exe
